@@ -1,5 +1,6 @@
 ESTE SERA EL PRIMER ELEMENTO A TRATAR
 muñoz
+Martinez
 Sebastian H
 Santiago Rendon 
 SEBASTIAN VASQUEZ TAMAYO
@@ -11,6 +12,5 @@ Kevin
 JHONATAN PALACIO PALACIO
 Maria Camila Grajales 
 Valentina Hernandez 
-JHONATAN PALACIO PALACIO
 JULIAN RUEDA GUERRERO
 
