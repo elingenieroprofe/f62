@@ -1,5 +1,10 @@
 ESTE SERA EL PRIMER ELEMENTO A TRATAR
+<<<<<<< HEAD
 Daniela Jaramillo Garzon
+=======
+Sebastian H
+Santiago Rendon 
+>>>>>>> 2278aa5648faf45cd7581c7fa3827e0e55b1844f
 SEBASTIAN VASQUEZ TAMAYO
 Maria Camila Grajales 
 Valentina Hernandez 
@@ -14,3 +19,4 @@ Maria Camila Grajales
 Valentina Hernandez 
 JHONATAN PALACIO PALACIO
 JULIAN RUEDA GUERRERO
+
