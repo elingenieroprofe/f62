@@ -1,2 +1,11 @@
 ESTE SERA EL PRIMER ELEMENTO A TRATAR
+<<<<<<< HEAD
 Daniela Jaramillo Garzon
+=======
+Kevin
+JHONATAN PALACIO PALACIO
+Maria Camila Grajales 
+Valentina Hernandez 
+JHONATAN PALACIO PALACIO
+
+>>>>>>> 9a10cfead84b8a192d7bd8fb5b80ebaa1e5a675b
