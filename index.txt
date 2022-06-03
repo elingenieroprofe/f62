@@ -1,7 +1,19 @@
 ESTE SERA EL PRIMER ELEMENTO A TRATAR
+<<<<<<< HEAD
 Daniela Jaramillo Garzon
+=======
+<<<<<<< HEAD
+Sara Nicole Arroyave Muñiz
+CARDENAS ES EL MAS LINDO
+JHONATAN PALACIO PALACIO
+Valentina Hernandez 
+>>>>>>> 1a2c7fa740254ecc846295fd74d67874769c5de5
 Kevin
 JHONATAN PALACIO PALACIO
 Maria Camila Grajales 
 Valentina Hernandez 
 JHONATAN PALACIO PALACIO
+<<<<<<< HEAD
+=======
+JULIAN RUEDA GUERRERO
+>>>>>>> 1a2c7fa740254ecc846295fd74d67874769c5de5
